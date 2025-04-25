@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 
-export default class Header extends Component{
+export default class Foot extends Component{
     render(){
         return (
             <div className="todo-footer">
